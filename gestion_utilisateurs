@@ -3,4 +3,8 @@ useradd
 #modification des utilisateurs
 usermod
 #suppression des utilisateurs
-userdel [-r,none,-f]
+<<<<<<< HEAD
+userdel [-r]
+=======
+userdel [-r]
+>>>>>>> 1bf1a6ed30c7786c8e4fb9c7148f6dff5dc81852
